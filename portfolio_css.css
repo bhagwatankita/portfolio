@@ -1,0 +1,327 @@
+
+
+@media screen and (max-width:1440px)
+{
+	.myname{
+	font-size:25px;
+    font-family: cursive;
+	font-weight:bold;
+    color: white;
+	margin-left:0px;
+	}
+	
+	.linkheader{
+		font-size:20px;
+		color:white;
+		margin-left:0px;
+		font-weight:bold;
+		
+	}
+	
+	.ankitacss{
+	font-family: cursive;
+    font-size: 74px;
+    color: white;
+    margin-top: 20pxpx;
+    text-align: center;
+	}
+	
+	.studentcss{
+		font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+	}
+	
+	.imagecss{
+		    margin-top: 129px;
+	}
+	
+	.iconcss{
+		color:white;
+		font-size:30px;
+	}
+	
+	
+	.heycss{
+		color:black;
+		font-size:30px;
+		font-weight:bold;
+		margin-bottom:20px;
+		margin-top:20px;
+	}
+	
+	.introcss{
+		font-size:21px;
+		margin-bottom:30px
+	}
+	
+	.portfoliocss{
+		font-size:30px;
+		font-family:cursive;
+		color:white;
+	}
+	
+	.footercss{
+		color:white;
+		font-size:30px;
+		padding-top:35px;
+padding-bottom:10 px;		
+	}
+	
+	.footercsstwo{
+		color:white;
+		font-size:20px;
+		
+	}
+	
+	.portcss{
+		text-align:center;
+		font-size:50px;
+		padding-bottom:10px;
+		padding-top:10px;
+		color:white;
+		background-color:#003153;
+		
+	}
+}
+
+@media screen and (max-width:1024px)
+{
+	
+		.myname{
+	font-size:19px;
+    font-family: cursive;
+	font-weight:bold;
+    color: white;
+	margin-left:0px;
+	}
+	
+	.linkheader{
+		font-size:15px;
+		color:white;
+		margin-left:0px;
+		font-weight:bold;
+		
+	}
+	
+	.ankitacss{
+	font-family: cursive;
+    font-size: 74px;
+    color: white;
+    margin-top: 20pxpx;
+    text-align: center;
+	}
+	
+	.studentcss{
+		font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+	}
+	
+	.imagecss{
+		    margin-top: 129px;
+	}
+	
+	.iconcss{
+		color:white;
+		font-size:25px;
+	}
+	
+}
+
+@media screen and (max-width:786px)
+{
+	.myname{
+	font-size:13px;
+    font-family: cursive;
+	font-weight:bold;
+    color: white;
+	margin-left:0px;
+	}
+	
+	.linkheader{
+		font-size:9px;
+		color:white;
+		margin-left:0px;
+		font-weight:bold;
+		
+	}
+	
+	.ankitacss{
+	font-family: cursive;
+    font-size: 45px;
+    color: white;
+    margin-top: 20pxpx;
+    text-align: center;
+	}
+	
+	.studentcss{
+		font-family: sans-serif;
+    font-size: 26px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+	}
+	
+	.imagecss{
+		    margin-top: 70px;
+	}
+	
+	.iconcss{
+		color:white;
+		font-size:16px;
+	}
+
+}
+
+@media screen and (max-width:425px)
+{
+	 
+	.myname{
+	font-size:11px;
+    font-family: cursive;
+	font-weight:bold;
+    color: white;
+	margin-left:0px;
+	}
+	
+	.linkheader{
+		font-size:8px;
+		color:white;
+		margin-left:0px;
+		font-weight:bold;
+		
+	}
+	
+	.ankitacss{
+	font-family: cursive;
+    font-size: 25px;
+    color: white;
+    margin-top: 20pxpx;
+    text-align: center;
+	}
+	
+	.studentcss{
+		font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+	}
+	
+	.imagecss{
+		    margin-top: 44px;
+	}
+	
+	.iconcss{
+		color:white;
+		font-size:5px;
+	}
+
+
+}
+
+@media screen and (max-width:375px)
+{
+	
+	.myname{
+	font-size:9px;
+    font-family: cursive;
+	font-weight:bold;
+    color: white;
+	margin-left:0px;
+	}
+	
+	.linkheader{
+		font-size:6px;
+		color:white;
+		margin-left:0px;
+		font-weight:bold;
+		
+	}
+	
+	.ankitacss{
+	font-family: cursive;
+    font-size: 22px;
+    color: white;
+    margin-top: 20pxpx;
+    text-align: center;
+	}
+	
+	.studentcss{
+		font-family: sans-serif;
+    font-size: 12px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+	}
+	
+	.imagecss{
+		    margin-top: 38px;
+	}
+	
+	.iconcss{
+		color:white;
+		font-size:3px;
+	}
+	
+}
+
+@media screen and (max-width:320px)
+{
+
+	.myname{
+	font-size:6px;
+    font-family: cursive;
+	font-weight:bold;
+    color: white;
+	margin-left:0px;
+	}
+	
+	.linkheader{
+		font-size:5px;
+		color:white;
+		margin-left:0px;
+		font-weight:bold;
+		
+	}
+	
+	.ankitacss{
+	font-family: cursive;
+    font-size: 19px;
+    color: white;
+    margin-top: 20pxpx;
+    text-align: center;
+	}
+	
+	.studentcss{
+		font-family: sans-serif;
+    font-size: 10px;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+	}
+	
+	.imagecss{
+		    margin-top: 30px;
+	}
+	
+	.iconcss{
+		color:white;
+		font-size:2px;
+	}
+	
+
+}
+
+
+
+
+
+
+
+
